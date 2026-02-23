@@ -5,16 +5,15 @@ subtitle: Machine Learning Researcher at Borealis AI,
 Novartis, 
 PhD in Computer Science
 ---
-Welcome to my website!
-My name is Hossein Sharifi-Noghabi. I was born and raised in a city named Mashhad, in northeast of Iran. I received my Ph.D. in Computer Science at Simon Fraser University and Vancouver Prostate Centre in 2021. My main focus is to develop/apply state-of-the-art robust learning systems using transfer learning, adversarial learning, multi-task learning, and domain generalization. During my Ph.D. I worked on transfer learning in precision oncology and pharmacogenomics. Between 2021 and 2022, I was at Novartis under AI4Life Residency Program where I worked on machine learning for data integration on SomaScan proteomics data in collaboration with Data42 and the Novartis Institute for Biomedical Research (NIBR). Currently, I am a machine learning researcher at Borealis AI - Vancouver office.  
+Hossein Sharifi-Noghabi is a Machine Learning Researcher and Applied Scientist with over seven years of experience translating cutting-edge AI research into real-world impact across financial services and pharmaceutical domains. Currently at RBC Borealis in Vancouver where he works on efficient models for financial services with various publications at top-tier venues such as ICML and TMLR as well as top-tier workshops. Previously at Novartis and the Princess Margaret Cancer Centre, he developed advanced deep learning and metric learning approaches for drug response prediction, batch effect correction, and cross-dataset generalization. He holds a PhD in Computer Science from Simon Fraser University, where his research on transfer learning and multi-modal representation learning for precision medicine led to publications in top-tier venues including Nature Machine Intelligence, KDD, and ISMB.  
 
 ### Employment 
 
 Machine Learning Researcher, October 2022-Present
-  - Vancouver office (Vancouver, Canada).
+  - RBC Borealis (Vancouver, Canada).
   
 AI4Life Resident, Sep 2021-Sep 2022
-  - Data42 Team, Novartis (Basel, Switzerland).  
+  - Data42, Novartis (Basel, Switzerland).  
 
 Admin Support (Research), June 2020-May 2021 
   - Princess Margarent Cancer Centre, University Health Network (Toronto, Canada). 
